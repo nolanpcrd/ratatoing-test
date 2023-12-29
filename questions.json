@@ -1,0 +1,108 @@
+{
+  "questions": [
+    {
+      "question": "Quel est ton plat préféré ?",
+      "options": [
+        {"option": "Pâtes à la carbonara"},
+        {"option": "Pizza"},
+        {"option": "Salade"}
+      ]
+    },
+    {
+      "question": "Quelle est ta couleur préférée ?",
+      "options": [
+        {"option": "Bleu"},
+        {"option": "Vert"},
+        {"option": "Rouge"}
+      ]
+    },
+    {
+      "question": "Quelle est ta façon préférée de passer une soirée ?",
+      "options": [
+        {"option": "Regarder un film à la maison"},
+        {"option": "Sortir faire la fête"},
+        {"option": "Lire un bon livre"}
+      ]
+    },
+    {
+      "question": "Quel genre de musique préfères-tu ?",
+      "options": [
+        {"option": "Rock"},
+        {"option": "Pop"},
+        {"option": "Classique"}
+      ]
+    },
+    {
+      "question": "Quel est ton lieu de vacances idéal ?",
+      "options": [
+        {"option": "Plage tropicale"},
+        {"option": "Montagnes enneigées"},
+        {"option": "Ville historique"}
+      ]
+    },
+    {
+      "question": "Quelle est ta saison préférée ?",
+      "options": [
+        {"option": "Été"},
+        {"option": "Hiver"},
+        {"option": "Printemps"}
+      ]
+    },
+    {
+      "question": "Quel animal préfères-tu ?",
+      "options": [
+        {"option": "Chien"},
+        {"option": "Chat"},
+        {"option": "Oiseau"}
+      ]
+    },
+    {
+      "question": "Quelle est ta matière préférée à l'école ?",
+      "options": [
+        {"option": "Mathématiques"},
+        {"option": "Éducation physique"},
+        {"option": "Littérature"}
+      ]
+    },
+    {
+      "question": "Comment préfères-tu passer un samedi après-midi ?",
+      "options": [
+        {"option": "En cuisine, à expérimenter de nouvelles recettes"},
+        {"option": "En plein air, à faire du sport"},
+        {"option": "Au calme, à lire ou méditer"}
+      ]
+    },
+    {
+      "question": "Quel est ton superhéros préféré ?",
+      "options": [
+        {"option": "Iron Man"},
+        {"option": "Spider-Man"},
+        {"option": "Wonder Woman"}
+      ]
+    },
+    {
+      "question": "Quel est ton film préféré parmi ceux-ci ?",
+      "options": [
+        {"option": "The Godfather"},
+        {"option": "The Shawshank Redemption"},
+        {"option": "Titanic"}
+      ]
+    },
+    {
+      "question": "Si tu pouvais voyager dans le temps, où irais-tu ?",
+      "options": [
+        {"option": "À l'époque médiévale"},
+        {"option": "Vers le futur, pour explorer les avancées technologiques"},
+        {"option": "À l'aube de l'humanité, pour comprendre nos origines"}
+      ]
+    },
+    {
+      "question": "Est-ce que tu touilles ?",
+      "options": [
+        {"option": "Oui"},
+        {"option": "Je ne sais pas"},
+        {"option": "Non"}
+      ]
+    }
+  ]
+}
